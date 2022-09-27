@@ -1,0 +1,11 @@
+C:\Users\20210888\source\repos\AgenciaConta\AgenciaConta\bin\Debug\netcoreapp2.2\AgenciaConta.deps.json
+C:\Users\20210888\source\repos\AgenciaConta\AgenciaConta\bin\Debug\netcoreapp2.2\AgenciaConta.runtimeconfig.json
+C:\Users\20210888\source\repos\AgenciaConta\AgenciaConta\bin\Debug\netcoreapp2.2\AgenciaConta.runtimeconfig.dev.json
+C:\Users\20210888\source\repos\AgenciaConta\AgenciaConta\bin\Debug\netcoreapp2.2\AgenciaConta.dll
+C:\Users\20210888\source\repos\AgenciaConta\AgenciaConta\bin\Debug\netcoreapp2.2\AgenciaConta.pdb
+C:\Users\20210888\source\repos\AgenciaConta\AgenciaConta\obj\Debug\netcoreapp2.2\AgenciaConta.csproj.CoreCompileInputs.cache
+C:\Users\20210888\source\repos\AgenciaConta\AgenciaConta\obj\Debug\netcoreapp2.2\AgenciaConta.AssemblyInfoInputs.cache
+C:\Users\20210888\source\repos\AgenciaConta\AgenciaConta\obj\Debug\netcoreapp2.2\AgenciaConta.AssemblyInfo.cs
+C:\Users\20210888\source\repos\AgenciaConta\AgenciaConta\obj\Debug\netcoreapp2.2\AgenciaConta.dll
+C:\Users\20210888\source\repos\AgenciaConta\AgenciaConta\obj\Debug\netcoreapp2.2\AgenciaConta.pdb
+C:\Users\20210888\source\repos\AgenciaConta\AgenciaConta\obj\Debug\netcoreapp2.2\AgenciaConta.csprojAssemblyReference.cache
